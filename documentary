@@ -1,0 +1,9 @@
+Ok, now I am writing about my files.
+Two files with practices are situated in Lesson1 and Lesson2 packages.
+Wow, first of all, i wanna describe first practice.
+    This is about classes architecture. It is showing the Innopolis Rooms access.
+    Four types of person have the different level of access. For example, parent of student have access only to act-hall.
+    In the other hand, director of Summer-Camp have access to his/her room. It works correct. - I am happy.
+The second file is about two types of car.
+    Sportcar and lorry. They have own drivers, engines, and company-producers.
+   
